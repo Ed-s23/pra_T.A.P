@@ -1,0 +1,15 @@
+  <!DOCTYPE html>
+ <html>
+    <head>
+        <title>Titulo de la pagina</title> 
+        <meta charset="UFT-8">
+    </head>
+    <body>
+        <h1 style="color:#7b0000;background-color:#6aad78;">
+            Este mensaje es de color rojo sobre un fondo verde.
+        </h1>
+        <h1 style="color:#5e7b00;background-color:#0a03d7;">
+            Este mensaje es de color verde sobre un fondo azul.
+        </h1>
+    </body>
+ </html>
