@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<cabeza>
+ <title>Problema</title>
+ <meta conjunto de caracteres="UTF-8">
+<estilo>
+ h1 {color:#ff0000}
+ h2 {color:#00ff00}
+ h3 {color:#0000ff}
+</estilo>
+</cabeza>
+<cuerpo>
+<h1>rojo</h1>
+<h2>verde</h2>
+<h3>azul</h3>
+</cuerpo>
+</html>
