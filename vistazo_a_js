@@ -1,0 +1,21 @@
+Ejemplos de acciones en .js
+console.log("hola mundo" )// escritura
+
+let nomnbre = "frnnk " // drrear variables 
+console.log(nomnbre)
+
+const objeto ={    //Objetos 
+    nombre:"frnc ", 
+    edad:"30" 
+}
+console.log(objeto)
+
+function mostrar1(nombres,edads){
+    return(`el nombre es ${nombres}, y edad$ ${edads}`)
+}
+
+const mostrar2 =(nombres,edads)=>  //funcion con return 
+    `el nombre es ${nombres}, y edad$ ${edads}`
+
+console.log(mostrar2("juan",30))
+
